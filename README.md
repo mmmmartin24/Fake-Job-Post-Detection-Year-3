@@ -1,7 +1,9 @@
 
 
 <h2> 🕵️ Real/Fake Job Posting Detection </h2>
+
 A machine learning project to detect fraudulent job postings using natural language processing (NLP) and various classification algorithms. This project was developed as part of the IBDA2032 - Kecerdasan Buatan course at Calvin Institute of Technology.
+
 
 📌 Problem Statement
 With the rise of digital job platforms, fake job postings have become a serious issue. These deceptive listings can lead to wasted time, financial loss, and loss of trust in job platforms. This project aims to build a system that can identify and flag potentially fraudulent job listings to protect job seekers and maintain platform integrity.
