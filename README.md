@@ -64,3 +64,11 @@ The project compares multiple algorithms to determine the most effective model f
 - https://www.datacamp.com/blog/classification-machine-learning
 
 📂 How to Run
+1. Clone this repo:
+git clone https://github.com/yourusername/real-fake-job-posting-detector.git
+cd real-fake-job-posting-detector
+2. Install dependencies:
+pip install -r requirements.txt
+3. Run the Jupyter Notebook:
+jupyter notebook
+
